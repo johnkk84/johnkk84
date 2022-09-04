@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on short project contains lab scenarios
 - 📫 You can reach me using mail: janusz.kujawa@gmail.com or just ping on slack.
 - ☸️ I have Kubernetes certification [CKAD](https://www.credly.com/badges/f7cedcc7-b5a5-4d2f-b28c-1484a709f29f/public_url), [CKA](https://www.credly.com/badges/a3fa5f29-0755-4074-829e-bee3db2c1b68?source=linked_in_profile)
+- ![awslabs](https://user-images.githubusercontent.com/19688433/188316224-741ca6fc-b3ab-4248-84df-b54d133941b0.png)
+I have based knowledge about AWS Cloud
 
 <!---
 johnkk84/johnkk84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
